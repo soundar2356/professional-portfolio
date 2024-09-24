@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.c11e7126.css",
+    "main.js": "/professional-portfolio/static/js/main.dae48c58.js",
+    "static/js/453.1407b060.chunk.js": "/professional-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profile.jpg": "/professional-portfolio/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/professional-portfolio/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/testimonial3.png": "/professional-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/professional-portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/professional-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/professional-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/professional-portfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/professional-portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/professional-portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/professional-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/John-Cv.pdf": "/professional-portfolio/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/professional-portfolio/index.html",
+    "main.c11e7126.css.map": "/professional-portfolio/static/css/main.c11e7126.css.map",
+    "main.dae48c58.js.map": "/professional-portfolio/static/js/main.dae48c58.js.map",
+    "453.1407b060.chunk.js.map": "/professional-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c11e7126.css",
+    "static/js/main.dae48c58.js"
+  ]
+}
