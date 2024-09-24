@@ -47,7 +47,7 @@ const Contact = () => {
                 </a>
               </div>
 
-              <div className="contact__card">
+              {/* <div className="contact__card">
                 <i className="bx bxl-messenger contact__card-icon"></i>
 
                 <h3 className="contact__card-title">Messenger</h3>
@@ -56,7 +56,7 @@ const Contact = () => {
                 <a href="https://m.me/crypticalcoder" className="contact__button">Write Me{" "}
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
-              </div>
+              </div> */}
               
             </div>
           </div>

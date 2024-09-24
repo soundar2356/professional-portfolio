@@ -16,12 +16,12 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#testimonials" className="footer__link">Testmonials</a>
+            <a href="#home" className="footer__link">Home</a>
           </li>
 
         </ul>
 
-        <div className="footer__social">
+        {/* <div className="footer__social">
         <a href="www.instagram.com" 
       className="footer__social-link" target="_blank">
       <i class="bx bxl-facebook"></i>
@@ -36,7 +36,7 @@ const Footer = () => {
       className="footer__social-link" target="_blank">   
       <i class="bx bxl-twitter"></i>
       </a>
-        </div>
+        </div> */}
         <span className="footer__copy"> &#169; soundarDev. All rights reserved</span>
       </div>
     </footer>

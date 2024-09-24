@@ -13,7 +13,7 @@
   row-gap: 1rem;
 }
 .home__social-icon{
-  font-size: 1.5rem;
+  font-size: 2.0rem;
   color: var(--title-color);
 }
 .home__social-icon:hover{

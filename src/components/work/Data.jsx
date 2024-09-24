@@ -9,37 +9,30 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
-    category: "Front-end",
-    link:"www.facebook.com",
+    title: "Youtube Clone",
+    category: "Front-End",
+    link:"https://soundar2356.github.io/Youtube-Clone-Using-HTML-And-CSS/",
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
-    category: "Course-certificate",
-    link:"//www.facebook.com",
+    title: "Amazon Clone",
+    category: "Front-End",
+    link:"https://soundar2356.github.io/amazon-clone-static-website/",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
-    category: "Full-Stack",
-    link:"//www.facebook.com",
+    title: "Protfolio",
+    category: "React-Js",
+    link:"https://soundar2356.github.io/portfolio/",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
-    category: "Front-end",
-    link:"//www.github.com"
-  },
-  {
-    id: 5,
-    image: Work5,
-    title: "Web design",
-    category: "Front-end",
-    link:"//www.facebook.com",
+    title: "Hotel Management",
+    category: "Full-Stack",
+    link:"https://github.com/soundar2356/LeeviHotel.git"
   },
 ];
 
@@ -49,12 +42,12 @@ export const projectsNav = [
     name : "all",
   },
   {
-    name : "app",
+    name : "Front-End",
   },
   {
-    name : "front-end",
+    name : "React-Js",
   },
   {
-    name : "full-stack",
+    name : "Full-Stack",
   },
 ];
