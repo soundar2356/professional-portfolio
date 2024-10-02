@@ -9,7 +9,7 @@ import Info from "./Info"
 const About = () => {
   return (
    <section className="about section" id="about">
-    <h2 className="section__title">About me</h2>
+    <h2 className="section__title">About Me</h2>
     <span className="section__subtitle">My Introduction</span>
 
     <div className="about__container container grid">
@@ -19,7 +19,7 @@ const About = () => {
       <Info />
 
       <p className='about__description'>
-        Passionate about a solid foundation in both Front=end and Back-end technologies Through my academic studies and personal projects and Excited to make a positive impact through innovative software development
+        Passionate about a solid foundation in both Front-end and Back-end technologies Through my academic studies and personal projects and Excited to make a positive impact through innovative software development
       </p>
 
       <a download="" href={CV} className="button buton--flex">Download Resume
